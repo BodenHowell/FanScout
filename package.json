@@ -1,0 +1,30 @@
+{
+  "name": "fanscout",
+  "version": "1.0.0",
+  "description": "Athlete shares trading application",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-deps": "cd backend && npm install",
+    "seed": "cd backend && node scripts/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fanscout",
+    "trading",
+    "sports",
+    "athletes",
+    "portfolio"
+  ],
+  "author": "Boden Howell",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.6"
+  }
+}
