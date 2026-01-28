@@ -1,12 +1,5 @@
 # FanScout 
 
-<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 13 PM" src="https://github.com/user-attachments/assets/980f8db5-0749-40bf-be9f-4b2422cd99e5" />
-<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 09 PM" src="https://github.com/user-attachments/assets/250d83af-c219-4ea1-ba08-3f269b9a007b" />
-<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 06 PM" src="https://github.com/user-attachments/assets/160487ad-2d6c-4af2-bdab-0cca9167ab56" />
-<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 03 PM" src="https://github.com/user-attachments/assets/091d5b3a-5d8c-4407-8826-e983b76cf913" />
-<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 01 PM" src="https://github.com/user-attachments/assets/7a8f63ab-8b2f-4a5f-b7b1-86a34d9c5f51" />
-<img width="1515" height="863" alt="Screenshot 2026-01-28 at 2 37 54 PM" src="https://github.com/user-attachments/assets/5ea0be56-70c8-4d8a-8102-5868078c2744" />
-<img width="2168" height="1401" alt="Screenshot 2025-12-15 at 3 32 59 PM" src="https://github.com/user-attachments/assets/b5544890-b532-4089-828e-019db71ef677" />
 
 ## Key Features
 
@@ -69,6 +62,14 @@
 - **Comments**: Threaded comment system with reply support
 - **Notifications**: Comprehensive notification system
 - **Transactions**: Complete trading history and analytics
+## Images
+<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 06 PM" src="https://github.com/user-attachments/assets/160487ad-2d6c-4af2-bdab-0cca9167ab56" />
+<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 03 PM" src="https://github.com/user-attachments/assets/091d5b3a-5d8c-4407-8826-e983b76cf913" />
+<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 01 PM" src="https://github.com/user-attachments/assets/7a8f63ab-8b2f-4a5f-b7b1-86a34d9c5f51" />
+<img width="1515" height="863" alt="Screenshot 2026-01-28 at 2 37 54 PM" src="https://github.com/user-attachments/assets/5ea0be56-70c8-4d8a-8102-5868078c2744" />
+<img width="2168" height="1401" alt="Screenshot 2025-12-15 at 3 32 59 PM" src="https://github.com/user-attachments/assets/b5544890-b532-4089-828e-019db71ef677" />
+<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 13 PM" src="https://github.com/user-attachments/assets/980f8db5-0749-40bf-be9f-4b2422cd99e5" />
+<img width="1510" height="863" alt="Screenshot 2026-01-28 at 2 38 09 PM" src="https://github.com/user-attachments/assets/250d83af-c219-4ea1-ba08-3f269b9a007b" />
 
 ## Quick Start
 
